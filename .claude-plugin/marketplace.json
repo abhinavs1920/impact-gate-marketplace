@@ -18,7 +18,7 @@
       "tags": ["api-impact", "dependency-analysis", "mcp", "observability", "openapi"],
       "source": {
         "source": "archive",
-        "url": "https://github.com/abhinavs1920/impact-gate-marketplace/releases/download/v1.0.0/impact-gate-plugin.zip",
+        "url": "https://raw.githubusercontent.com/abhinavs1920/impact-gate-marketplace/main/dist/impact-gate-plugin.zip",
         "sha256": "6ab9f1e9d54b22d1d8da41e980ddeb96a304ebde50f784b8215e10c9fe1a7cfe"
       }
     }
